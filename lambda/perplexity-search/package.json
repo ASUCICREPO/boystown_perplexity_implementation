@@ -1,0 +1,20 @@
+{
+  "name": "perplexity-search",
+  "version": "1.0.0",
+  "description": "Lambda function to search external resources using Perplexity API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "axios": "^1.9.0"
+  },
+  "devDependencies": {
+    "aws-sdk-mock": "^5.8.0",
+    "jest": "^29.5.0"
+  }
+}
