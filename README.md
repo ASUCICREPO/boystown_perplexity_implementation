@@ -60,7 +60,7 @@ This project uses the following AWS services:
 
 4. Deploy the stack:
    ```bash
-   npx cdk deploy
+   cdk deploy
    ```
 
 ## Usage Examples
@@ -120,7 +120,7 @@ curl "https://YOUR_API_URL/prod/external-search?resourceType=mental_health&locat
 
 Run the unit tests with:
 ```bash
-npm run test
+npm test
 ```
 
 ## Future Enhancements
