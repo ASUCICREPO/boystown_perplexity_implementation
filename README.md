@@ -120,7 +120,7 @@ curl "https://YOUR_API_URL/prod/external-search?resourceType=mental_health&locat
 
 Run the unit tests with:
 ```bash
-npm run test
+npm test
 ```
 
 ## Future Enhancements
