@@ -60,7 +60,7 @@ This project uses the following AWS services:
 
 4. Deploy the stack:
    ```bash
-   npx cdk deploy
+   cdk deploy
    ```
 
 ## Usage Examples
